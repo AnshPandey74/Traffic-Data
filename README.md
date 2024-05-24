@@ -3,7 +3,7 @@
 ## Steps for README Documentation
 1. Clone the repository.
 2. Ensure Python 3.x and required dependencies like seaborn, matplotlib, and pandas are installed.
-3. Open the EDA file (Prodigy_DS_05.ipynb) in Jupyter Notebook.
+3. Open the EDA file (PRODIGY_DS_05.ipynb) in Jupyter Notebook.
 4. Run cells to reproduce analysis and visualizations.
 
 ## Dataset Type
