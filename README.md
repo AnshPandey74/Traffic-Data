@@ -1,4 +1,4 @@
-# Prodigy_DS_05
+# Traffic Trends
 
 ## Steps for README Documentation
 1. Clone the repository.
